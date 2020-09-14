@@ -1,5 +1,5 @@
 1. Nikita Strelkov
-2. Contacts e-mail: nstrelkov@protonmail.com, telegram: @nsstrelkov, phone: +79042751234
+2. Contacts e-mail: fibo163024@gmail.com, telegram: @nsstrelkov, phone: +79128555507
 3. Summary: I am 30 years old and my goal is to become a professional developer. I am organized, quick learner, self-motivated. I think that the developer profession is very interesting and makes you constantly develop yourself.
 4. Skills: HTML basics, CSS basics, JS basics, Python Basics, Linux
 5. Latest projects: I haven’t had any serious projects yet, but I hope that I will soon implement a project like “Google” :smile:
